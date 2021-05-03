@@ -1,2 +1,2 @@
-# C+
+# C++
 projects written in C++
